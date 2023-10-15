@@ -1,0 +1,28 @@
+.translation-container {
+  margin-bottom: 30px;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 20px;
+}
+
+.translation-section {
+  margin-bottom: 15px;
+}
+
+.input-style {
+  margin-right: 10px;
+  padding: 5px;
+}
+
+.button-style {
+  padding: 5px 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.text-style {
+  margin: 5px 0;
+}
+
+  
